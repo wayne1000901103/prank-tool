@@ -1,0 +1,3 @@
+do
+MsgBox ""
+loop
