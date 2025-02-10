@@ -8,9 +8,9 @@ Prank Tool 是一款用於娛樂和惡搞的 Windows 工具，包含多種趣味
 
 ## 📌 功能
 
-- **CMD-blue-screen.exe**：模擬 Windows 藍屏（BSOD）。
-- **CMD-Crash.exe**：關閉系統關鍵進程，導致系統異常。
-- **CMD-unlimited-pop-ups.exe**：無限彈出對話框，干擾使用者操作。
+- **CMD-blue-screen.exe**：Windows 藍屏（BSOD）。
+- **CMD-Crash.exe**：運行無用指令，導致系統異常。
+- **CMD-unlimited-pop-ups.exe**：無限彈出cmd，干擾使用者操作。
 - **that-can’t-be-turned-off.exe**：運行無法關閉的 VBS 腳本。
 
 ---
